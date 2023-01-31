@@ -1,0 +1,5 @@
+name: homepage
+title: Homepage
+version: 1.0
+nav:
+  - modules/ROOT/nav.adoc
