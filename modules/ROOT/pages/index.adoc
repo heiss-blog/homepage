@@ -1,4 +1,34 @@
 = Welcome to the Heiss blog!
 :navtitle: Welcome
 
-This is the automatic start page for version *{page-component-display-version}* of Component B.
+This is the start page of this blog about technical topics.
+The blog is powered by https://antora.org[antora] and https://asciidoctor.org[asciidoctor].
+
+== About me
+
+I am a software developer and architect with a focus on Python, Machine Learning and DevOps.
+In my spare time, I am learning NixOS, Rust and functional programming with haskell.
+I studied computer science, mathematics and education at the University of Münster, Germany.
+
+After my study, I worked 3 years for the https://github.com/sciebo-rds/sciebo-rds[sciebo-rds] project from 2019-2022.
+There I was the only software developer, who works on the software, so I needed to learn a lot about DevOps and how to manage a software project to handle the workload.
+In 2022, I joined happily the https://ulb.uni-muenster.de/[University Library of Münster] as a manager for the software department.
+
+So, I have a broad experience in software development, DevOps, project management and teaching.
+This broad experience is reflected in the topics of this blog. Also, I am interested in the research of the intersection between technology, society and new work.
+
+Small addition:
+I am not a native English speaker, so please excuse my mistakes.
+
+== About this blog
+
+This is a place to share my knowledge and experience with others.
+Also, I want to share my thoughts and ideas and discuss them with others.
+So, I want to invite you to give feedback.
+But before, please read the xref:howtouse.adoc[How to use this blog] page.
+
+== Contact
+
+You can contact me via email:
+peter.heiss@uni-muenster.de
+

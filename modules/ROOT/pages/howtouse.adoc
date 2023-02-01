@@ -1,0 +1,79 @@
+= How to use the blog
+:navtitle: How to use
+
+Difficult: Easy
+
+Here you will learn how you should read the blog.
+Because of the nature of the used software "antora", which is built for documentation, it is not so easy as wordpress or similar.
+But it is easier to write good technical posts.
+
+WARNING: This is a work in progress. The blog is not yet finished.
+
+The posts in this blog are not meant to be read from top to bottom.
+You should check the navigation on the left side and read the posts in the order they are listed there, if you know nothing about the topic.
+But you can read the posts in any order you like, too.
+
+== Motivation
+
+In this post, you will learn how to navigate and read the blog. This will help you to understand what you can expect. Also, this helps me to create complicated posts about complex topics, which are easy to read.
+
+== Subject separation in the blog
+
+The blog is separated into different subjects.
+Each subject has its own subblog.
+In other software solutions this is called _category_.
+
+The subjects are:
+- Homepage
+- Architecture
+- Management
+- Software development
+- operating systems
+- productivity
+
+You can switch the categories in the menu on the left bottom side.
+
+NOTE: There are numeric values under the subject names. Ignore this currently, because they have no meanings right now. This will change in the future.
+
+Select one of the subjects to see the posts in this subject in the left navigation.
+
+== Read posts in a subject
+
+After you select a subject, you should keep an eye of the navigation on the left side.
+There you will find the posts, which are in the subject you selected.
+After some period of time, the navigation will be filled with the posts in the subject.
+
+=== Structure of a post
+
+A post is structured in the following way:
+- Introduction
+- Motivation
+- Content
+- Conclusion
+
+Obviously, already this post is structured in this way. So if you read this, you are already familiar with the structure.
+
+=== Difficulty
+
+Each post has a difficulty level.
+This is a subjective value, which is set by the author of the post.
+The difficulty level is a value between *easy* and *very hard* and symbolize, how much knowledge you need to understand the post.
+Most times the post itself will tell you, which knowledge you need to understand the post and gives you links to other posts, which you should read first.
+
+== Using the search bar
+
+The search bar is located in the top right corner of the blog.
+Enter a search term and press enter to search for posts containing this term in all posts of the blog over all subjects.
+The search index does not contain the content of comments.
+
+== Comment section
+
+The comment section is located at the bottom of each post.
+It uses the giscus comment system and is based on GitHub discussions, so you need a GitHub account to comment.
+Feel free to write comments, but please keep them polite and on topic.
+Start right now and say hello to the world in the comment section right below the conclusion section.
+
+== Conclusion
+
+Now you know everything you need to read the blog without any hustle.
+If you have any questions, feel free to ask them in the comment section below.
